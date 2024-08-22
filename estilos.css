@@ -1,0 +1,25 @@
+/*Estilos para el título*/
+h1{color: aquamarine;
+   background-color: #544ba3;
+   font-style: italic;}
+
+/*Estilos para el body*/
+body{background-color: aliceblue;
+     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     text-align: center;}
+
+/*Estilos del formulario*/
+form{font-weight: bold;
+     margin-top: 20px;}
+input{border-width:2px;
+      border-style: solid;}
+input[type="text"]
+     {border-color: #4493b3;}
+input[type="submit"]
+     {border-color: #000000;}
+     
+/*Estilos para la imagen*/
+img{border: 3px groove #f31616;
+    margin-top: 20px;
+    border-radius:10px}
+
